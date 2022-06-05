@@ -1,6 +1,6 @@
 # Site
 
-I've done this simple site sing emscripten
+I've done this simple site using emscripten
 
 The main.wasm file is a binary fail supoported by every browser.
 
